@@ -1,0 +1,84 @@
+groceries:
+  - label: "Apple"
+    coordinate: 
+      x: 10.5
+      y: 9.0
+      z: 0.0
+    qr_code: "http://example.com/apple"
+    image_folder_path: "/images/apple"
+    gripping_info:
+      type: "standard"
+      pressure: 5
+      angle: 45
+
+  - label: "Banana"
+    coordinate: 
+      x: 10.5
+      y: 11.0
+      z: 0.0
+    qr_code: "http://example.com/banana"
+    image_folder_path: "/images/banana"
+    gripping_info:
+      type: "delicate"
+      pressure: 2
+      angle: 30
+
+  - label: "Milk Carton"
+    coordinate: 
+      x: 12.0
+      y: 9.0
+      z: 0.0
+    qr_code: "http://example.com/milk_carton"
+    image_folder_path: "/images/milk_carton"
+    gripping_info:
+      type: "standard"
+      pressure: 7
+      angle: 90
+
+  - label: "Bread Loaf"
+    coordinate: 
+      x: 11.0
+      y: 8.0
+      z: 0.0
+    qr_code: "http://example.com/bread_loaf"
+    image_folder_path: "/images/bread_loaf"
+    gripping_info:
+      type: "soft"
+      pressure: 3
+      angle: 60
+
+  - label: "Orange"
+    coordinate: 
+      x: 10.5
+      y: 8.0
+      z: 0.0
+    qr_code: "http://example.com/orange"
+    image_folder_path: "/images/orange"
+    gripping_info:
+      type: "standard"
+      pressure: 4
+      angle: 50
+
+  - label: "Grapes"
+    coordinate: 
+      x: 11.5
+      y: 10.0
+      z: 0.0
+    qr_code: "http://example.com/grapes"
+    image_folder_path: "/images/grapes"
+    gripping_info:
+      type: "delicate"
+      pressure: 2
+      angle: 30
+
+  - label: "Cereal Box"
+    coordinate: 
+      x: 8.0
+      y: 11.0
+      z: 0.0
+    qr_code: "http://example.com/cereal_box"
+    image_folder_path: "/images/cereal_box"
+    gripping_info:
+      type: "standard"
+      pressure: 5
+      angle: 45
